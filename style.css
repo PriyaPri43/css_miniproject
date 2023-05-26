@@ -1,0 +1,15 @@
+p{
+    font-family: Georgia;
+    font-size: 30px;
+    background-color:cyan;
+    font-style: italic;
+    color:blue;
+}
+h1{
+    font-weight: 500;
+    background-color:azure;
+    color:black;
+}
+span{
+    color: red;
+}
